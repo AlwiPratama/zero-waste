@@ -32,6 +32,12 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Aplikasi memakai lokasimu untuk menemukan donor dan penerima makanan terdekat."
+        }
       ]
     ],
     "experiments": {
